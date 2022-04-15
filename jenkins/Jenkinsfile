@@ -21,10 +21,5 @@ pipeline {
                 sh './jenkins/scripts/deliver.sh'
             }
         }
-        stage('Cleanout') {
-            steps {
-                echo 'This is final checkout'
-            }
-        }
     }
 }
