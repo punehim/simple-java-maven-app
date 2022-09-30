@@ -30,7 +30,7 @@
   <repository>
           <id>himanshu-himanshu-zenfare</id>
           <name>himanshu-himanshu-zenfare</name>
-          <url>https://himanshu-521682743690.d.codeartifact.us-east-1.amazonaws.com/maven/himanshu-zenfare/</url>
+          <url>https://himanshu-521682743690.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
   </repository>
   </distributionManagement>	
   <build>
